@@ -1,1 +1,1 @@
-https://gaydandr.github.io/goit-FSon50-hw-01/
+https://gaydandr.github.io/goit-markup-hw-01/
